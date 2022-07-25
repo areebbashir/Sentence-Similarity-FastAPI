@@ -1,7 +1,7 @@
 sentence-transformers
 fastapi==0.61.2
 uvicorn==0.12.3
-numpy==1.19.4
+numpy==
 click==7.1.2
 cymem==2.0.4
 tqdm
@@ -22,8 +22,8 @@ requests==2.25.0
 six==1.15.0
 srsly==1.0.4
 starlette==0.13.6
-thinc==7.4.3
-
+thinc
+blis
 typing-extensions==3.7.4.3
 urllib3==1.26.2
 wasabi==0.8.0
