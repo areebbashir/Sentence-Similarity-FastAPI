@@ -1,7 +1,7 @@
 sentence-transformers
 fastapi==0.61.2
 uvicorn==0.12.3
-numpy==
+numpy
 click==7.1.2
 cymem==2.0.4
 tqdm
