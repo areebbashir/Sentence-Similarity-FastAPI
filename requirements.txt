@@ -78,7 +78,6 @@ pydub==0.24.1
 Pygments==2.10.0
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
-pywin32
 PyYAML==6.0
 pyzmq==22.3.0
 regex==2020.11.13
