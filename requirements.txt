@@ -97,7 +97,7 @@ spacy==2.3.3
 SpeechRecognition==3.8.1
 srsly==1.0.4
 starlette==0.13.6
-tensorboard==2.7.0
+tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 tensorflow-estimator==2.7.0
