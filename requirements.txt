@@ -1,4 +1,4 @@
-setence-transformers
+sentence-transformers
 fastapi==0.61.2
 uvicorn==0.12.3
 numpy==1.19.4
